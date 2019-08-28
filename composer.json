@@ -1,0 +1,12 @@
+{
+    "name": "esphp/esphp",
+    "authors": [
+        {
+            "name": "sunil.adhikari",
+            "email": "sunil.adhikari@itonics.de"
+        }
+    ],
+    "require": {
+        "elasticsearch/elasticsearch": "^7.2"
+    }
+}
